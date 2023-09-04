@@ -1,4 +1,4 @@
-# Kursprojekt - Bookster
+# Kursprojekt - Strong n' Epic
 Deadline: 15:e september 17:00.
 
 I denna uppgift är grupper valfria men får som mest bestå av 3 deltagare och ska registeras via omnius senaste ikväll (4:e september 17:00). Observera att det däremot är ett krav att man ingår i en grupp av minst 2. 
@@ -47,7 +47,7 @@ Kravspecfikationen ska innehålla följande
 
 # Backend
 
-En MVP behöver inte innehålla ett färdigt API och det går då bra att "fejka" ett API med json filer.
+En MVP behöver inte innehålla ett färdigt API och det går då bra att "fejka" ett API med json filer. Går även bra att använda ett mock api såsom [MirageJs](https://miragejs.com/)
 
 ## Bedömning
 
